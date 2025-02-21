@@ -1,2 +1,2 @@
 # Devansh-demo
-This repo for Demo of Git and Github
+This is Demo for Git and Github
